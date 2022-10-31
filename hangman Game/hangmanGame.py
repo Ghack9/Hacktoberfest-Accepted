@@ -1,7 +1,7 @@
 # Python Program to illustrate
 # Hangman Game
 import random
-from collections import Counter
+from collections imp ort Counter
  
 someWords = '''apple banana mango strawberry
 orange grape pineapple apricot lemon coconut watermelon
